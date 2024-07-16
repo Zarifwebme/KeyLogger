@@ -10,7 +10,7 @@ from googleapiclient.errors import HttpError
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
 # The ID and range of the target spreadsheet.
-SAMPLE_SPREADSHEET_ID = "1UtvvgqI-WaAGfVTySM07nI9KYpCkXewZJupSmIN6KCM"
+SAMPLE_SPREADSHEET_ID = "telegram bot adress"
 SAMPLE_RANGE_NAME = "Sheet1!A1"
 
 def read_log_file(file_path):
