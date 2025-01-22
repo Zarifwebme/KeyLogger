@@ -42,10 +42,3 @@ This repository contains a Python-based keylogger that captures keyboard input a
 ## Disclaimer
 
 This keylogger is intended for educational purposes only. Use it responsibly and only on systems you own or have permission to monitor.
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-Make sure to fill in any missing details, such as the configuration file setup and any additional instructions specific to your keylogger.
