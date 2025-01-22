@@ -21,14 +21,7 @@ This repository contains a Python-based keylogger that captures keyboard input a
    ```bash
    git clone https://github.com/Zarifwebme/KeyLogger.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd KeyLogger
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 
